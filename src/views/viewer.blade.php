@@ -2,7 +2,7 @@
 
 <?php 
 /** without this the namespace issue broke favor **/
-Use 'Illuminate\Support\Facades\Html' 
+Use 'Illuminate\Support\Facades\Html' ;
 ?>
 
 <html lang="{{ Config::get('app.locale') }}">
