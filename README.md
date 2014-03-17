@@ -1,4 +1,4 @@
-#Laravel 4 LogViewer
+#Laravel 4 LogViewer - Favor Fork
 
 Easily view and delete Laravel 4's logs.
 
