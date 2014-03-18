@@ -1,6 +1,6 @@
 <?php
 /** Setting up for Namespacing **/
-Use Illuminate\Support\Facades\Html;
+Use Illuminate\Support\Facades\HTML;
 
 
 // Inspired by: http://forums.laravel.io/viewtopic.php?id=827
